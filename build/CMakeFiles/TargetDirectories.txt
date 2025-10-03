@@ -1,0 +1,3 @@
+/home/nellor/c++/standart_molecula_sim/build/CMakeFiles/ReactorSimulator.dir
+/home/nellor/c++/standart_molecula_sim/build/CMakeFiles/edit_cache.dir
+/home/nellor/c++/standart_molecula_sim/build/CMakeFiles/rebuild_cache.dir
